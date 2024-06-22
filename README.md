@@ -2,7 +2,7 @@
 
 A Movies listing app including search and favourite/unfavourite functionality
 
-> View this app [here..](https://chirag482.github.io/movies-app/)
+> View this app [here..](https://movie-search-nxshsbj6m-sumits-projects-54f4496b.vercel.app/)
 
 > feel free to jump in to contribute
 
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/65730103/154234465-b12b353c-f4bf-4abe-
 
 ## How to Install
 
-> Run this app by directly opening the [Link here](https://chirag482.github.io/movies-app/) or follow steps mentioned below to set up on local directory.
+> Run this app by directly opening the [Link here](https://movie-search-nxshsbj6m-sumits-projects-54f4496b.vercel.app/) or follow steps mentioned below to set up on local directory.
 
 1. Clone this project
 2. Start by installing _npm_ **if you don't have it already**
